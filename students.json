@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ana García",
+        "grade": "10° A",
+        "email": "ana.garcia@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+        "name": "Carlos Rodríguez",
+        "grade": "11° B",
+        "email": "carlos.rodriguez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "name": "Sofía Martínez",
+        "grade": "9° C",
+        "email": "sofia.martinez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "name": "Diego López",
+        "grade": "12° A",
+        "email": "diego.lopez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "name": "Valentina Hernández",
+        "grade": "10° B",
+        "email": "valentina.hernandez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "name": "Andrés Pérez",
+        "grade": "11° A",
+        "email": "andres.perez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+        "name": "Lucía González",
+        "grade": "9° B",
+        "email": "lucia.gonzalez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+        "name": "Mateo Sánchez",
+        "grade": "12° B",
+        "email": "mateo.sanchez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+        "name": "Isabella Ramírez",
+        "grade": "10° C",
+        "email": "isabella.ramirez@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+        "name": "Santiago Torres",
+        "grade": "11° C",
+        "email": "santiago.torres@colegio.edu",
+        "photo": "https://randomuser.me/api/portraits/men/10.jpg"
+    }
+]
